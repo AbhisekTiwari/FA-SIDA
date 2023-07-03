@@ -1,5 +1,3 @@
-# Towards Developing A Disease Diagnosis Assistant that also learns from Unsuccessful Diagnoses
-
 ## Dataset Settings
 - To use SD dataset 
     dataset_type = "SD"
